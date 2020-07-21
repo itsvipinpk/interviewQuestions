@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 /**
  * Write an efficient program for printing k largest elements in an array. Elements in array can be in any order.
+ * New comment: This is a test approach for reference only.
  * */
 public class Approach1 {
 
